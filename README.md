@@ -5,7 +5,7 @@ Overview
 
 This project analyzes the relationship between air pollution exposure and respiratory health outcomes across New York City neighborhoods. Using the NYC Open Data "Air Quality and Health Impacts" dataset, I built a PostgreSQL database to explore how pollutant levels (PM2.5, NO2, O3) correlate with asthma hospitalizations, cardiac outcomes, and traffic density at the neighborhood level.
 
-The analysis investigates which neighborhoods bear the highest combined environmental and health burden, and why — revealing that both physical geography (coastal wind patterns) and socioeconomic factors (income, healthcare access, housing quality) shape pollution-related health disparities.
+The analysis investigates which neighborhoods bear the highest combined environmental and health burden, and why, revealing that both physical geography (coastal wind patterns) and socioeconomic factors (income, healthcare access, housing quality) shape pollution-related health disparities.
 
 Research Questions
 
